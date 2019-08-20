@@ -2,7 +2,7 @@
   "posts": [
     { "id": 1, "title": "Java Concurrency", "category": "Java"},
     { "id": 2, "title": "Hibernate HQL", "category": "Hibernate"},
-    { "id": 3, "title": "Spring MVC with Hibernate", "category": "Spring"}
+    { "id": 3, "title": "Spring MVC with Hibernate", "category": "Spring"},
     { "id": 4, "title": "Android Layout", "category": "Android"}
   ],
   "comments": [
