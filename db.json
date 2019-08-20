@@ -1,17 +1,14 @@
-[
-  {
-    "Id": 1,
-    "title": "Java Concurrency",
-    "category": "Java"
-  },
-  {
-    "Id": 2,
-    "title": "Hibernate HQL",
-    "category": "Hibernate"
-  },
-  {
-    "Id": 3,
-    "title": "Spring MVC with Hibernate",
-    "category": "Spring"
+{
+  "posts": [
+    { "id": 1, "title": "Java Concurrency", "category": "Java"},
+    { "id": 2, "title": "Hibernate HQL", "category": "Hibernate"},
+    { "id": 3, "title": "Spring MVC with Hibernate", "category": "Spring"}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "thaiphong"
   }
-]
+}
